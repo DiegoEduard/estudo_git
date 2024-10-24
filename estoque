@@ -1,0 +1,26 @@
+#progrma estoque com frete
+#variaveis de memoria
+ Vcont="S"
+ Vproduto=
+ Vquantidade=0
+ Vvalor=0.0
+ Vpeso=0.0
+
+#CRIANDO LISTA
+Lproduto=[]
+Lvalor=[]
+Lquantidade=[]
+Lpeso=[]
+print("SISTEMA VENDAS")
+WHILE vCONT=="S");
+ Vprodutos=input("digite o produtos")
+
+ Vvalor=Flat(imput("valor"))
+ Vquantidade=INT(input("quantidade"))
+ Vpeso=Float(input("peso")
+Lproduto.append(vproduto)
+Lvalor.append(Vvalor)
+LQuantidade.append(Vpeso)
+vant=input("Dega continur<sim>:
+print("--------------------')
+print"----Calcular peso--")
